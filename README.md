@@ -42,6 +42,6 @@ Welcome to my coding journey, where I'm learning, building, and growing one proj
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:**https://www.linkedin.com/in/afren-naj-54b5b2428?utm_source=share_via&utm_content=profile&utm_medium
+- 💼 **LinkedIn:**[afren naj](https://www.linkedin.com/in/afren-naj-54b5b2428?utm_source=share_via&utm_content=profile&utm_medium)
 - 📧 **Email:** afrennaj67@gmail.com
 -

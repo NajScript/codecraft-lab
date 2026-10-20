@@ -3,10 +3,10 @@ Welcome to my coding journey, where I'm learning, building, and growing one proj
 💻 Learning to code, one step at a time.
 
 ## About Me
--B.Tech Computer Science Engineering student
--Learning C, Python and Data Structures & Algorithms
--Exploring Software Development, Problem-Solving, UI/UX Design
--Building projects and learning by doing
+- 🎓 B.Tech Computer Science Engineering student
+- 🌱 Learning C, Python and Data Structures & Algorithms
+- 🎨 Exploring software development, problem solving and UI/UX design 
+- 🚀 Building projects and learning by doing
 
 ## Current Focus
 - Programming fundamentals
